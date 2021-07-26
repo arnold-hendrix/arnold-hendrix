@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Arnold Masanga. 
 - 👀 I’m interested in software development and IoT.
 - 🌱 I’m currently in my last semester of a Computer Engineering degree at Seneca College, in Toronto.
-      You will find mostly Python and .NET projects in my repository. I am planning to add IoT projects in the near future.
+      You will find Python and .NET projects in my repository. I am also planning to add IoT projects in the near future.
 - 💞️ I’m looking to collaborate on .NET and Python projects.
 - 📫 You can reach me through the following email: masaar01@luther.edu.
 
