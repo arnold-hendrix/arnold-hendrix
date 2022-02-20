@@ -1,9 +1,8 @@
-- 👋 Hi, my name is Arnold Masanga. 
-- 👀 I’m interested in software development and IoT.
-- 🌱 I’m currently in my last semester of a Computer Engineering degree at Seneca College, in Toronto.
-      You will find Python and .NET projects in my repository. I am also planning to add IoT projects in the near future.
-- 💞️ I’m looking to collaborate on .NET and Python projects.
-- 📫 You can reach me through the following email: masaar01@luther.edu.
+- Arnold Masanga. 
+- Full-stack developer.
+- Java, Python, C#, and Typescript.
+- I am also interested in IoT and Machine Learning.
+- 📫 You can reach me @: masaar01@luther.edu.
 
 <!---
 arnold-hendrix/arnold-hendrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
