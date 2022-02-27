@@ -1,6 +1,6 @@
 - Arnold Masanga. 
 - Full-stack developer.
-- Java, Python, C#, and Typescript.
+- I code in Java, Python, C#, and Typescript.
 - I am also interested in IoT and Machine Learning.
 - 📫 You can reach me @: masaar01@luther.edu.
 
