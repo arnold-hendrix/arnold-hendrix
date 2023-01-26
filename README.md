@@ -3,7 +3,7 @@
 - I am interested in full-stack and backend development.
 - I code in Java, Python, C#, and Typescript.
 - I am also interested in IoT and Machine Learning.
-- 📫 You can reach me @: masaar01@luther.edu.
+- 📫 You can reach me @: arnomas101@gmail.com
 
 <!---
 arnold-hendrix/arnold-hendrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
